@@ -1,0 +1,11 @@
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\bin\Debug\InterfacesBasicas.exe.config
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\bin\Debug\InterfacesBasicas.exe
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\bin\Debug\InterfacesBasicas.pdb
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\obj\Debug\InterfacesBasicas.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\obj\Debug\InterfacesBasicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\obj\Debug\InterfacesBasicas.PresentacionCalculadora.resources
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\obj\Debug\InterfacesBasicas.Properties.Resources.resources
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\obj\Debug\InterfacesBasicas.csproj.GenerateResource.cache
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\obj\Debug\InterfacesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\obj\Debug\InterfacesBasicas.exe
+C:\Users\Esteban\source\repos\InterfacesBasicas\InterfacesBasicas\obj\Debug\InterfacesBasicas.pdb
