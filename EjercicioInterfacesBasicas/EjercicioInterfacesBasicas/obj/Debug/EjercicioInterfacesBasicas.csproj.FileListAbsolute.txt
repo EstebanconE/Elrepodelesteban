@@ -1,0 +1,11 @@
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\bin\Debug\EjercicioInterfacesBasicas.exe.config
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\bin\Debug\EjercicioInterfacesBasicas.exe
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\bin\Debug\EjercicioInterfacesBasicas.pdb
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\obj\Debug\EjercicioInterfacesBasicas.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\obj\Debug\EjercicioInterfacesBasicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\obj\Debug\EjercicioInterfacesBasicas.Programa.resources
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\obj\Debug\EjercicioInterfacesBasicas.Properties.Resources.resources
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\obj\Debug\EjercicioInterfacesBasicas.csproj.GenerateResource.cache
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\obj\Debug\EjercicioInterfacesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\obj\Debug\EjercicioInterfacesBasicas.exe
+C:\Users\Esteban\source\repos\EjercicioInterfacesBasicas\EjercicioInterfacesBasicas\obj\Debug\EjercicioInterfacesBasicas.pdb
